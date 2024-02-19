@@ -1,0 +1,33 @@
+{
+    "Basis gjenstand": [
+        "Unr",
+        "Museumsnummer",
+        "Gjenstand",
+        "Materiale",
+        "Antall",
+        "Variant"
+    ],
+    "Alle felter": [
+        "Periode",
+        "Arkivnummer",
+        "Stammer fra",
+        "Lokaliteter",
+        "Dato",
+        "Funnkategori",
+        "Unr",
+        "Museumsnummer",
+        "Gjenstand",
+        "Materiale",
+        "Funnr",
+        "Antall",
+        "Variant",
+        "Største mål",
+        "Lengde",
+        "Beskrivelse",
+        "Fylke",
+        "Gårdsnavn",
+        "Kommune",
+        "Gårdsnummer",
+        "Bruksnummer"
+    ]
+}
