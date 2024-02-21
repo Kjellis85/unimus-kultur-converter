@@ -199,7 +199,6 @@ else:
 logo_image = ImageTk.PhotoImage(Image.open(logo_path))
 root.iconphoto(False, logo_image)
 
-
 # Sjekk brukerpreferanse og vis popup om nødvendig
 if load_user_preference():
     popup = tk.Toplevel(root)
